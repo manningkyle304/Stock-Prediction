@@ -5,4 +5,4 @@ The project can't be run locally because it relies on a module not available out
 the specific environment we ran in the class. However, output graphs are included in the repository
 and other output is included in the Jupyter notebook.
 
-To run the project, go to []("rice.codeskulptor.org").
+To run the project, go to ["rice.codeskulptor.org"].
